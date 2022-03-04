@@ -1,2 +1,6 @@
 # first-repository
 this is my beginning step to learning how to use git hub to make a repository 
+
+line 1
+
+line 2
